@@ -148,5 +148,3 @@ The project was developed as a multidisciplinary robotics system combining:
 Developed by a six-member multidisciplinary team.
 
 ---
-
-<img width="736" height="1200" alt="WhatsApp Image 2026-09-30 at 5 54 48 PM (3)" src="https://github.com/user-attachments/assets/986aef16-5986-44be-8e96-05b638d0447c" />
