@@ -149,6 +149,4 @@ Developed by a six-member multidisciplinary team.
 
 ---
 
-## Media
-
-Project demonstrations, robot hardware, RViz/MoveIt visualization, object detection, and gesture recognition can be added here.
+<img width="736" height="1200" alt="WhatsApp Image 2026-09-30 at 5 54 48 PM (3)" src="https://github.com/user-attachments/assets/986aef16-5986-44be-8e96-05b638d0447c" />
